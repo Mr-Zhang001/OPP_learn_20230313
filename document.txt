@@ -1,0 +1,7 @@
+# 说明
+
+三篇博文，说明了C的的OOP操作，分别是
+
+- OOP封装https://blog.csdn.net/weixin_46185705/article/details/123488236
+- OOP继承https://blog.csdn.net/weixin_46185705/article/details/123737979?spm=1001.2014.3001.5501
+- OOP多态https://blog.csdn.net/weixin_46185705/article/details/123756383?spm=1001.2014.3001.5501
